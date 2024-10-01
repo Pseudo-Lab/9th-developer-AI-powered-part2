@@ -5,7 +5,7 @@
 - Jaewook Yu (potea) []
 - Jiho Ko (seaweedsoup98) [Blog](https://what-learning.tistory.com/7)
 - Kyungeun Park (kingeun) []
-- Soo Hyeong Kim (shkim1018) []
+- Soo Hyeong Kim (shkim1018) [PDF](./datacamp/mlops-concepts_shkim1018.pdf)
 - Sunohk Kwon (sunohk) []
 - Taeho Gil (taylormason23) []
 
@@ -15,7 +15,7 @@
 - Jaewook Yu (potea) []
 - Jiho Ko (seaweedsoup98) []
 - Kyungeun Park (kingeun) []
-- Soo Hyeong Kim (shkim1018) []
+- Soo Hyeong Kim (shkim1018) [PDF](./datacamp/end-to-end-machine-learning_shkim1018.pdf)
 - Sunohk Kwon (sunohk) []
 - Taeho Gil (taylormason23) []
 
