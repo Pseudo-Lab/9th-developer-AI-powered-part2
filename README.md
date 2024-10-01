@@ -11,14 +11,10 @@
 
 ## 출석 체크
 - [댓글 작성 공간](https://github.com/Pseudo-Lab/9th-developer-AI-powered-part2/discussions/3)
-```
-### 이번 DataCamp 강의를 수강하면서 배운점
-- 내용
-### 강의 내용중 궁금했던점
-- 이런 것이 궁금했어요.
-### 함께 이야기 나누며 얻은 것
-- 음..🤔
-```
+
+## 자료 공유
+- [스터디 자료 정리](./LearnDataCamp.md)
+- [스터디 관련 템플릿](./Template.md)
 
 ## 주차별 목표와 학습 내용
 💡 주차별 진행계획은 러너(스터디원)분들과 협의에 의해 변경될 수 있습니다.
@@ -39,4 +35,3 @@
 | 12주 | 2024/12/03 | [Introduction to Docker](https://app.datacamp.com/learn/courses/introduction-to-docker) | 전원 | 요약공유 |
 | 13주 | 2024/12/10 | [CI/CD for Machine Learning](https://app.datacamp.com/learn/courses/cicd-for-machine-learning) | 전원 | 요약공유 |
 | 14주 | 2024/12/17 | 토이 프로젝트 공유 및 회고 | 전원 | 요약공유 |
-
