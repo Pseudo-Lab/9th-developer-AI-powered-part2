@@ -4,6 +4,7 @@
 
 ## DataCamp를 활용한 PseudoLab Fellowship
 - [가이드 문서](https://github.com/Pseudo-Lab/9th-builder/discussions/32)
+![DataCamp Donates](./datacamp/DC_Donates_logo_navy_bg.png)
 
 ## 정기 모임 시간 & 장소
 - 시간: 화요일 오후 9시
