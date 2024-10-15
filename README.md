@@ -26,14 +26,14 @@
 | 2주 | 2024/09/24 | [MLOps Concepts](https://app.datacamp.com/learn/courses/mlops-concepts) | 전원 | 요약공유 |
 | 3주 | 2024/10/01 | [End-to-End Machine Learning](https://app.datacamp.com/learn/courses/end-to-end-machine-learning) | 전원 | 요약공유 |
 | 4주 | 2024/10/08 | [Introduction to Shell](https://app.datacamp.com/learn/courses/introduction-to-shell) | 전원 | 요약공유 |
-| 5주 | 2024/10/15 | [MLOps Deployment and Life Cycling](https://app.datacamp.com/learn/courses/mlops-deployment-and-life-cycling), 토이 프로젝트 주제 | 전원 | 요약공유 |
-| 6주 | 2024/10/22 | [Introduction to MLflow](https://app.datacamp.com/learn/courses/introduction-to-mlflow) | 전원 | 요약공유 |
-| 7주 | 2024/10/29 | [ETL and ELT in Python](https://app.datacamp.com/learn/courses/etl-and-elt-in-python) | 전원 | 요약공유 |
-| 8주 | 2024/11/05 | [Introduction to Data Versioning with DVC](https://app.datacamp.com/learn/courses/introduction-to-data-versioning-with-dvc) | 전원 | 요약공유 |
-| 9주 | 2024/11/12 | [Monitoring Machine Learning Concepts](https://app.datacamp.com/learn/courses/monitoring-machine-learning-concepts) | 전원 | 요약공유 |
-| 10주 | 2024/11/19 | [Monitoring Machine Learning in Python](https://app.datacamp.com/learn/courses/monitoring-machine-learning-in-python) | 전원 | 요약공유 |
-| 11주 | 2024/11/26 | [Introduction to Docker](https://app.datacamp.com/learn/courses/introduction-to-docker) | 전원 | 요약공유 |
-| 12주 | 2024/12/03 | [CI/CD for Machine Learning](https://app.datacamp.com/learn/courses/cicd-for-machine-learning) | 전원 | 요약공유 |
+| 5주 | 2024/10/15 | [MLOps Deployment and Life Cycling](https://app.datacamp.com/learn/courses/mlops-deployment-and-life-cycling), 토이 프로젝트 준비1 | 전원 | 요약공유 |
+| 6주 | 2024/10/22 | [Introduction to MLflow](https://app.datacamp.com/learn/courses/introduction-to-mlflow), 토이 프로젝트 준비2 | 전원 | 요약공유 |
+| 7주 | 2024/10/29 | [ETL and ELT in Python](https://app.datacamp.com/learn/courses/etl-and-elt-in-python), 토이 프로젝트 주제 | 전원 | 요약공유 |
+| 8주 | 2024/11/05 | [Introduction to Data Versioning with DVC](https://app.datacamp.com/learn/courses/introduction-to-data-versioning-with-dvc), 토이 프로젝트 진행1 | 전원 | 요약공유 |
+| 9주 | 2024/11/12 | [Monitoring Machine Learning Concepts](https://app.datacamp.com/learn/courses/monitoring-machine-learning-concepts), 토이 프로젝트 진행2 | 전원 | 요약공유 |
+| 10주 | 2024/11/19 | [Monitoring Machine Learning in Python](https://app.datacamp.com/learn/courses/monitoring-machine-learning-in-python), 토이 프로젝트 진행3 | 전원 | 요약공유 |
+| 11주 | 2024/11/26 | [Introduction to Docker](https://app.datacamp.com/learn/courses/introduction-to-docker), 토이 프로젝트 진행4 | 전원 | 요약공유 |
+| 12주 | 2024/12/03 | [CI/CD for Machine Learning](https://app.datacamp.com/learn/courses/cicd-for-machine-learning), 토이 프로젝트 진행5 | 전원 | 요약공유 |
 | 13주 | 2024/12/10 | 토이 프로젝트 공유 및 회고 | 전원 | 요약공유 |
 
 ### Career Track 변경 사항 
