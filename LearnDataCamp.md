@@ -30,7 +30,7 @@
 - Taeho Gil (taylormason23) []
 
 ## 4주차 스터디
-- Changjin Kang (cjkangme) []
+- Changjin Kang (cjkangme) [Blog](https://velog.io/@cjkangme/ML-%EC%8A%A4%ED%84%B0%EB%94%94)
 - Hyeonu Kim (kim-edwin) []
 - Jaewook Yu (potea) [PDF](./datacamp/mlops-deployment-and-life-cycling_potea.pdf)
 - Jiho Ko (seaweedsoup98) []
@@ -40,6 +40,46 @@
 - Taeho Gil (taylormason23) []
 
 ## 5주차 스터디
+- Changjin Kang (cjkangme) [Blog](https://velog.io/@cjkangme/ML-%EC%8A%A4%ED%84%B0%EB%94%94-Introduction-to-MLflow)
+- Hyeonu Kim (kim-edwin) [Blog](https://velog.io/@woo813625/Datacamp-Introduction-to-MLflow)
+- Jaewook Yu (potea) []
+- Jiho Ko (seaweedsoup98) []
+- Kyungeun Park (kingeun) [PDF](./datacamp/introduction-to-mlflow_kingeun.pdf)
+- Soo Hyeong Kim (shkim1018) [PDF](./datacamp/introduction-to-mlflow_shkim1018.pdf)
+- Sunohk Kwon (sunohk) []
+- Taeho Gil (taylormason23) []
+
+## 6주차 스터디
+- Changjin Kang (cjkangme) [Blog](https://velog.io/@cjkangme/ML-%EC%8A%A4%ED%84%B0%EB%94%94-ETL-and-ELT-in-Python)
+- Hyeonu Kim (kim-edwin) []
+- Jaewook Yu (potea) []
+- Jiho Ko (seaweedsoup98) []
+- Kyungeun Park (kingeun) []
+- Soo Hyeong Kim (shkim1018) [PDF](./datacamp/etl-and-elt-in-python_shkim1018.pdf)
+- Sunohk Kwon (sunohk) []
+- Taeho Gil (taylormason23) []
+
+## 7주차 스터디
+- Changjin Kang (cjkangme) []
+- Hyeonu Kim (kim-edwin) []
+- Jaewook Yu (potea) []
+- Jiho Ko (seaweedsoup98) []
+- Kyungeun Park (kingeun) []
+- Soo Hyeong Kim (shkim1018) [PDF](./datacamp/introduction-to-data-versioning-with-dvc_shkim1018.pdf)
+- Sunohk Kwon (sunohk) []
+- Taeho Gil (taylormason23) []
+
+## 8주차 스터디
+- Changjin Kang (cjkangme) []
+- Hyeonu Kim (kim-edwin) []
+- Jaewook Yu (potea) []
+- Jiho Ko (seaweedsoup98) []
+- Kyungeun Park (kingeun) []
+- Soo Hyeong Kim (shkim1018) [PDF](./datacamp/monitoring-machine-learning-concepts_shkim1018.pdf)
+- Sunohk Kwon (sunohk) []
+- Taeho Gil (taylormason23) []
+
+## 9주차 스터디
 - Changjin Kang (cjkangme) []
 - Hyeonu Kim (kim-edwin) []
 - Jaewook Yu (potea) []
@@ -48,3 +88,8 @@
 - Soo Hyeong Kim (shkim1018) []
 - Sunohk Kwon (sunohk) []
 - Taeho Gil (taylormason23) []
+
+
+_shkim1018
+introduction-to-data-versioning-with-dvc_shkim1018
+monitoring-machine-learning-concepts_shkim1018
